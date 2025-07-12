@@ -20,3 +20,6 @@ An AI-powered emergency assistant that:
 2. **Finds the most relevant** emergency services using Foursquare Places API
 3. **Provides contextual information** about facilities (hours, specialties, contact info)
 4. **Takes immediate action** with one-click calling, directions, and emergency protocols
+
+![alt text](image.png)
+![alt text](image-1.png)
